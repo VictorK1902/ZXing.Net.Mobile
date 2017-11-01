@@ -121,10 +121,6 @@
       <Project>{8e54db74-c094-4016-859a-d1c7f2509a58}</Project>
       <Name>ZXing.Net.Mobile.Forms</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ZXing.Net.Mobile.WindowsUniversal\ZXing.Net.Mobile.WindowsUniversal.csproj">
-      <Project>{1b000bca-4895-4acf-a0c6-3adf3a9bedf2}</Project>
-      <Name>ZXing.Net.Mobile.WindowsUniversal</Name>
-    </ProjectReference>
     <ProjectReference Include="..\ZXing.Net\Source\lib\zxing.portable.csproj">
       <Project>{24b441f2-cbe9-4405-9fd0-72ebcbea0ec3}</Project>
       <Name>zxing.portable</Name>
